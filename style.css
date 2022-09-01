@@ -1,0 +1,16 @@
+.Top-text {
+    color: rgb(45, 45, 158);
+    font-size: larger;
+    text-align: center;
+}
+
+.links{
+    color:rgb(245, 127, 31);
+    font-size: medium;
+}
+
+.today{
+    color:bisque;
+    font-size:x-large;
+    text-align: center;
+}
