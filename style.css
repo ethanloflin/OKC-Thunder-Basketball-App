@@ -14,3 +14,8 @@
     font-size:x-large;
     text-align: center;
 }
+
+.Tank{
+    height: auto;
+    width: 500px;
+}
